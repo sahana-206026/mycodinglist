@@ -1,4 +1,4 @@
 # myfirst-project
-this is my first repositorie
+this is my first repositoriy
 <br>
-author-Narsingoju Sahana
+Author-Narsingoju Sahana
